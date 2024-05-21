@@ -19,12 +19,11 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelBRodrigues" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelBRodrigues" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelBRodrigues&layout=compact&langs_count=8&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelBRodrigues&layout=compact&langs_count=8&card_width=320" />
 </a>
-  
 
 <div> 
   <a href="https://www.youtube.com/channel/UCkfh98KCdS5njpOOet5k-sg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
