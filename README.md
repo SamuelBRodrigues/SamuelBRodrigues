@@ -16,6 +16,14 @@
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelBRodrigues&theme=chartreuse-dark&show_icons=true"/>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelBRodrigues&theme=chartreuse-dark"/>
 </div>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelBRodrigues" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelBRodrigues&layout=compact&langs_count=8&card_width=320" />
+</a>
   
 
 <div> 
