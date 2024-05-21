@@ -1,16 +1,12 @@
 ## Olá, eu sou Samuel 👋
 
-<!--
-**SamuelBRodrigues/SamuelBRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Atualmente estou trabalhando com extração de dados com R
+- 🧑🏾‍💼 Atualmente estou trabalhando com extração de dados com R
 - 🌱 Estou me desenvolvendo em R e Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 Você pode entrar em contato comigo através:
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏾‍🔬 Estou terminando a graduação em Química Bacharel
+- ✝️ Sou cristão
+- 📧 samul.rodrigues@iqb.ufal.br
+<div>
+<ahref="https://github.com/SamuelBRodrigues">
+<
+  
+</div>
