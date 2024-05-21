@@ -14,7 +14,7 @@
 <div align="center">
   <a href="https://github.com/SamuelBRodrigues">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelBRodrigues"/>
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelBRodrigues&layout=compact"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelBRodrigues"/>
 </div>
   
 
